@@ -20,16 +20,6 @@ people:
     - title: skype
       url: mailto:marcosrocha23
       
-- name: Marcos Rocha
-  pic: 2
-  position: Engenheiro Agrônomo
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/marcos-rocha-2b5a45141/
-    - title: github
-      url: http://github.com/marcosrochedo
-    - title: skype
-      url: mailto:marcosrocha23
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
