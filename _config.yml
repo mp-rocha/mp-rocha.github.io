@@ -13,6 +13,10 @@ people:
   pic: 2
   position: Engenheiro Agrônomo
   social:
+    - title: gmail
+      url: mailto:mpaulloalves@gmail.com
+    - title: email
+      url: mailto:mpaulloalves@gmail.com
     - title: instagram
       url: https://www.instagram.com/marcosrochedo/
     - title: facebook
