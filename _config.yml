@@ -13,24 +13,22 @@ people:
   pic: 2
   position: Engenheiro Agrônomo
   social:
-    - title: gmail
-      url: mailto:mpaulloalves@gmail.com
-    - title: email
-      url: mailto:mpaulloalves@gmail.com
-    - title: instagram
-      url: https://www.instagram.com/marcosrochedo/
-    - title: facebook
-      url: https://www.facebook.com/mpar23
     - title: linkedin
       url: https://www.linkedin.com/in/marcos-rocha-2b5a45141/
+    - title: github
+      url: http://github.com/marcosrochedo
+    - title: skype
+      url: marcosrocha23
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
 
-  - title: kaggle 
-    url: https://www.kaggle.com/marcosrocha23
-  - title: github
-    url: http://github.com/marcosrochedo
+    - title: instagram
+      url: https://www.instagram.com/marcosrochedo/
+    - title: facebook
+      url: https://www.facebook.com/mpar23
+    - title: google
+      url: mailto:mpaulloalves@gmail.com
 
 # Postal address (add as many lines as necessary)
 address:
