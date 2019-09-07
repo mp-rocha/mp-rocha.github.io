@@ -1,3 +1,9 @@
 {% include css/bootstrap.min.css %}
 {% include css/agency.css %}
 {{ content }}
+
+}
+
+.bg-png {
+	background: #fff url(../img/light_mosaic.png) repeat 0 0;
+}
